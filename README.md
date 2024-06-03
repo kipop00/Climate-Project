@@ -9,3 +9,6 @@ The project's first step would be to do a comparison analysis on Min., Max. and 
 
 1. Initial observations show a 98% correlation between annual max temp and annual mean temp. Leading me to think about how mean annual temp is being calculated in the first place.
 
+2. Questions to answer? Trends over the past 50 years? Global warming started around 1950 and the data shows a significant increase in the trend around that time. By identifying changes in different regions and detecting any abnormalities the main thing to look at:
+   Can we find any factors on the small scale that would indicate towards impact of climate change?
+
